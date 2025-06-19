@@ -43,10 +43,10 @@ Não implementei testes automatizados, pois o foco foi entregar uma aplicação 
 
 Aqui seguem alguns gifs que mostram as funcionalidades principais.
 
-![Gif da lista de Pokémons com filtro](./gifs/pokerub-filter.gif)  
+<!-- ![Gif da lista de Pokémons com filtro](./gifs/pokerub-filter.gif)   -->
 ![Gif da evolução de um Pokémon](./gifs/pokerub-evolution.gif)  
 ![Gif da busca e detalhes dos personagens Rick and Morty](./gifs/rmweb-search-detail.gif)  
-![Gif da lista de favoritos](./gifs/favorites-list.gif)
+<!-- ![Gif da lista de favoritos](./gifs/favorites-list.gif) -->
 
 ---
 
