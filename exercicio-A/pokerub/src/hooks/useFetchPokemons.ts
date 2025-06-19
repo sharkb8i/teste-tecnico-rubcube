@@ -16,7 +16,7 @@ function getIdFromUrl(url: string) {
   return parts[parts.length - 1];
 }
 
-export function useFetchPokemons(pageSize = 16) {
+export function useFetchPokemons(pageSize = 20) {
   const [pokemons, setPokemons] = useState<Pokemon[]>([]);
   const [offset, setOffset] = useState(0);
   const [loading, setLoading] = useState(false);
